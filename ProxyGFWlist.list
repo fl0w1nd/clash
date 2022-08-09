@@ -6091,46 +6091,6 @@ IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 
-# OneDrive
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,oneclient.sfx.ms
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,photos.live.com
-DOMAIN-SUFFIX,skydrive.wns.windows.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-#DOMAIN-SUFFIX,aria.microsoft.com
-
-# Porn
-DOMAIN-KEYWORD,porn
-DOMAIN-SUFFIX,8teenxxx.com
-DOMAIN-SUFFIX,ahcdn.com
-DOMAIN-SUFFIX,bcvcdn.com
-DOMAIN-SUFFIX,bongacams.com
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,dditscdn.com
-DOMAIN-SUFFIX,livejasmin.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-DOMAIN-SUFFIX,rdtcdn.com
-DOMAIN-SUFFIX,redtube.com
-DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xnxx-cdn.com
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,ypncdn.com
-
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
@@ -6141,26 +6101,6 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
-
-# Steam
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,underlords.com
-DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,playartifact.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamuserimages-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net
 
 # TapTap
 DOMAIN-SUFFIX,tap.io
