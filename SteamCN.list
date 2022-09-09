@@ -16,6 +16,4 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steampowered.com
-
-#valorant
-DOMAIN-KEYWORD,valorant
+DOMAIN-SUFFIX,steamstatic.com
