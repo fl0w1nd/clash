@@ -1,4 +1,4 @@
-# Pornhub
+# Rules for some adult wensites
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
@@ -22,3 +22,5 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
+DOMAIN-SUFFIX,cospuri.com
+
