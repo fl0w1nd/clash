@@ -1,9 +1,7 @@
-# CHATGPT规则
+# 第三方API网站
 DOMAIN,aiproxy.io
-DOMAIN,api.revenuecat.com
-DOMAIN-KEYWORD,-courier
-DOMAIN-KEYWORD,fmfmobile
-DOMAIN,mask-api.fe.apple-dns.net
+
+# CHATGPT规则(适用于网页版)
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -17,3 +15,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+
+# CHATGPT规则(适用于ios客户端)
+DOMAIN,api.statsig.com
+DOMAIN,api.revenuecat.com
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,api.mixpanel.com
