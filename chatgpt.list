@@ -1,6 +1,3 @@
-# 第三方API网站
-DOMAIN,aiproxy.io
-
 # CHATGPT规则(适用于网页版)
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
