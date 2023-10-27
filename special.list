@@ -1,3 +1,4 @@
-#必应
+#必应与claude
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
