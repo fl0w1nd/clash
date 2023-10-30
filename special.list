@@ -1,4 +1,5 @@
 #必应与claude
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
