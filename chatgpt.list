@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,oaistatic
 
 # CHATGPT规则(适用于ios客户端)
 DOMAIN,api.statsig.com
