@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN,statsigapi.net
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,oaistatic
+DOMAIN,files.oaiusercontent.com
 
 # CHATGPT规则(适用于ios客户端)
 DOMAIN,api.statsig.com
