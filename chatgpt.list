@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,oaistatic
 DOMAIN,files.oaiusercontent.com
+DOMAIN,widget.intercom.io
 
 # CHATGPT规则(适用于ios客户端)
 DOMAIN,api.statsig.com
