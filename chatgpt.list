@@ -2,20 +2,17 @@
 DOMAIN,cdn.openai.com
 DOMAIN,chat.openai.com
 DOMAIN,cdn.auth0.com
-DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,AI.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,api-iam.intercom.io
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,civitai.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,cloud.culturedcode.com
 DOMAIN-SUFFIX,cloudflare.net
@@ -65,3 +62,4 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN,api.mixpanel.com
