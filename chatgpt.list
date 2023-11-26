@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,static.metafi.codefi.network
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,api.statsig.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
