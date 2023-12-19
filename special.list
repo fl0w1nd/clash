@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,bing.net
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN,ai.google.dev
+DOMAIN-KEYWORD,googleapis
