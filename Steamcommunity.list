@@ -1,5 +1,4 @@
 # 内容：Steamcommunity
-# 数量：2条
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-KEYWORD,akamai
+DOMAIN-REGEX,^.*steam.*\.akamai.*
