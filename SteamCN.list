@@ -1,13 +1,12 @@
 # 内容：SteamCN
-# 数量：15条
-DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
-DOMAIN,dota2.wmsj.cn
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
 DOMAIN,steampowered.com
 DOMAIN,steamstatic.com
 DOMAIN,wmsjsteam.com
@@ -17,7 +16,8 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamserver.net,DIRECT
-DOMAIN-SUFFIX,test.steampowered.com,DIRECT
-DOMAIN-SUFFIX,api.steampowered.com,DIRECT
-DOMAIN-SUFFIX,rmbgame.net,DIRECT
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,rmbgame.net
