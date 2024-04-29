@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,rmbgame.net
-DOMAIN,steamcdn-a.akamaihd.net
 # ip段
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/23,no-resolve
