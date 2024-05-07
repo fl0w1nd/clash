@@ -1,5 +1,6 @@
 # E站分流
-# 数量：2条
+# 数量：4条
 DOMAIN-KEYWORD,hentai
 DOMAIN,e-hentai.org
 DOMAIN,exhentai.org
+DOMAIN,ehtracker.org
