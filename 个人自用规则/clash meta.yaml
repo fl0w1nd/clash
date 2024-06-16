@@ -33,7 +33,7 @@ proxy-providers:
       interval: 86400
 
 proxy-groups:
-- {name: 🚀手动切换, type: select, include-all-providers: true, filter: "主力"}
+- {name: 🚀手动切换, type: select, include-all-providers: true, filter: "主力|备用|免费|公益"}
 - {name: 🟢备用节点, type: select, include-all-providers: true, filter: "备用|免费|公益"}
 - {name: 🚀节点选择, type: select, proxies: [🇭🇰香港节点, 🇹🇼台湾节点, 🇸🇬狮城节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换]}
 - {name: 🎮STM登录, type: select, proxies: [DIRECT, 🚀节点选择, 🇭🇰香港节点, 🇹🇼台湾节点, 🇸🇬狮城节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换, 🟢备用节点]}
@@ -302,6 +302,4 @@ rules:
   - RULE-SET,UnBan,🎯全球直连
   - RULE-SET,BT,🎯全球直连
   - GEOIP,CN,🎯全球直连
-  - DST-PORT,80,🐟漏网之鱼
-  - DST-PORT,443,🐟漏网之鱼
   - MATCH,DIRECT
