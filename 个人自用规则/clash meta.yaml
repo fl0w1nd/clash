@@ -62,27 +62,6 @@ proxy-groups:
 - {name: 🎥奈飞节点, type: select, tolerance: 150, include-all-providers: true, filter: "NF|奈飞|解锁|流媒体|Netflix|NETFLIX|Media"}
 
 rule-providers:
-  custom1:
-    type: http
-    behavior: classical
-    format: text
-    url: "https://raw.githubusercontent.com/fl0w1nd/clash/main/custom1.list"
-    interval: 86400
-
-  custom2:
-    type: http
-    behavior: classical
-    format: text
-    url: "https://raw.githubusercontent.com/fl0w1nd/clash/main/custom2.list"
-    interval: 86400
-
-  custom3:
-    type: http
-    behavior: classical
-    format: text
-    url: "https://raw.githubusercontent.com/fl0w1nd/clash/main/custom3.list"
-    interval: 86400
-
   💬CHATGPT:
     type: http
     behavior: classical
