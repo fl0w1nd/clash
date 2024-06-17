@@ -62,7 +62,7 @@ proxy-groups:
 - {name: 🎥奈飞节点, type: select, tolerance: 150, include-all-providers: true, filter: "NF|奈飞|解锁|流媒体|Netflix|NETFLIX|Media"}
 
 rule-providers:
-  💬CHATGPT:
+  OpenAi:
     type: http
     behavior: classical
     format: text
@@ -253,6 +253,7 @@ rule-providers:
 
 
 rules:
+  - RULE-SET,E-hentai,💬CHATGPT
   - RULE-SET,E-hentai,🐼E站
   - RULE-SET,GoogleFCM,📢谷歌FCM
   - RULE-SET,Steamcommunity,🎮STM社区
