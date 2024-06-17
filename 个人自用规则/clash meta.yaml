@@ -35,7 +35,7 @@ proxy-providers:
 proxy-groups:
 - {name: 🚀手动切换, type: select, include-all-providers: true, filter: "主力|备用|免费|公益"}
 - {name: 🟢备用节点, type: select, include-all-providers: true, filter: "备用|免费|公益"}
-- {name: 🚀节点选择, type: select, proxies: [🇭🇰香港节点, 🇹🇼台湾节点, 🇸🇬狮城节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换]}
+- {name: 🚀节点选择, type: select, proxies: [🇭🇰香港节点, 🇹🇼台湾节点, 🇸🇬狮城节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换, 🟢备用节点]}
 - {name: 🎮STM登录, type: select, proxies: [DIRECT, 🚀节点选择, 🇭🇰香港节点, 🇹🇼台湾节点, 🇸🇬狮城节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换, 🟢备用节点]}
 - {name: 🎮STM社区, type: select, proxies: [DIRECT, 🚀节点选择, 🇭🇰香港节点, 🇹🇼台湾节点, 🇸🇬狮城节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换, 🟢备用节点]}
 - {name: 💬CHATGPT, type: select, proxies: [🇸🇬狮城节点, 🚀节点选择, 🇭🇰香港节点, 🇹🇼台湾节点, 🇯🇵日本节点, 🇺🇲美国节点, 🇰🇷韩国节点, 🇷🇺俄国节点, 🌐冷门节点, 🚀手动切换, 🟢备用节点]}
