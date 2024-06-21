@@ -4,4 +4,4 @@ DOMAIN-KEYWORD,zcsouls
 # PLEX
 DOMAIN-KEYWORD,plex
 # Linux Do
-DOMAIN,linux.do
+DOMAIN-SUFFIX,linux.do
